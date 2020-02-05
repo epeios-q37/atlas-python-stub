@@ -10,7 +10,7 @@ import atlastk as Atlas
 # Replace below lines by your own code.
 
 head = """
-<title>"Hello, World !" stub</title>
+<title>Atlas toolkit Python stub</title>
 """
 
 body = """
