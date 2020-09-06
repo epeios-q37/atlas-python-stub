@@ -2,7 +2,7 @@
 
 [![Run on Repl.it](https://q37.info/s/kpm7xhfm.png)](https://q37.info/s/9rjht97x)
 
-[![license: MIT](https://img.shields.io/github/license/epeios-q37/atlas-python-stub?color=yellow&style=for-the-badge)](https://github.com/epeios-q37/atlas-python-stun/blob/master/LICENSE)
+[![license: MIT](https://img.shields.io/github/license/epeios-q37/atlas-python-stub?color=yellow&style=for-the-badge)](https://github.com/epeios-q37/atlas-python-stub/blob/master/LICENSE)
 [![Stars](https://img.shields.io/github/stars/epeios-q37/atlas-python-stub.svg?style=for-the-badge)](https://github.com/epeios-q37/atlas-python-stub/stargazers)
 [![Forks](https://img.shields.io/github/forks/epeios-q37/atlas-python-stub.svg?style=for-the-badge)](https://github.com/epeios-q37/atlas-python-stub/network/members)
 
