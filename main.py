@@ -8,11 +8,11 @@ import atlastk
 
 # Replace below lines by your own code.
 
-head = """
+HEAD = """
 <title>Atlas toolkit Python stub</title>
 """
 
-body = """
+BODY = """
  <fieldset>
    <button data-xdh-onevent="Submit">Click me!</button>
  </fieldset>
@@ -20,17 +20,17 @@ body = """
 
 
 def acConnect(dom):
-	dom.inner("", body )
+	dom.inner("", BODY )
 
 
 def acSubmit(dom):
 	dom.alert("Hello, the World!")
 
 
-callbacks = {
+CALLBACKS = {
 	"": acConnect,
 	"Submit": acSubmit,
 }
 
 
-atlastk.launch(callbacks, headContent)
+atlastk.launch(CALLBACKS, headContent=HEAD)
