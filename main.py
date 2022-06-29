@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# If installed with 'pip install term2web',
+# If installed with 'pip install atlastk',
 # above line can be removed.
 __import__("sys").path.append("./atlastk.zip")
 
